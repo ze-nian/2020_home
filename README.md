@@ -32,4 +32,6 @@ def functionname( parameters ):
    function_suite
    return [expression]
 ```
-   
+
+:smile:
+:thumbsup:
